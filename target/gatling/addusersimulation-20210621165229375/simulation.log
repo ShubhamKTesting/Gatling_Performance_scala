@@ -1,0 +1,4 @@
+RUN	simulations.AddUserSimulation	addusersimulation	1624294349375	Yes	3.6.0
+USER	Add User Scenario	START	1624294356341
+REQUEST		Add User Request	1624294356390	1624294357039	OK	 
+USER	Add User Scenario	END	1624294357069

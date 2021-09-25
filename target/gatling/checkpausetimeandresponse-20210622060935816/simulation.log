@@ -1,0 +1,6 @@
+RUN	simulations.CheckPauseTimeAndResponse	checkpausetimeandresponse	1624342175816	TEST	3.6.0
+USER	user api calls	START	1624342186254
+REQUEST		List all Users	1624342186335	1624342187031	OK	 
+REQUEST		single user API	1624342192215	1624342192237	OK	 
+REQUEST		single user not found API	1624342197414	1624342197914	OK	 
+USER	user api calls	END	1624342200935

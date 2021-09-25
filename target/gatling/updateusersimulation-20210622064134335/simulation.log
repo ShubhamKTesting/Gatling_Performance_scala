@@ -1,0 +1,5 @@
+RUN	simulations.UpdateUserSimulation	updateusersimulation	1624344094335	GT	3.6.0
+USER	Update User Request	START	1624344102928
+REQUEST		Update specific user	1624344102972	1624344103817	OK	 
+REQUEST		Delete user	1624344106869	1624344107403	OK	 
+USER	Update User Request	END	1624344107415

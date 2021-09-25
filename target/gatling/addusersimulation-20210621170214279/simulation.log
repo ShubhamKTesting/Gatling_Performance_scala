@@ -1,0 +1,5 @@
+RUN	simulations.AddUserSimulation	addusersimulation	1624294934279	sas	3.6.0
+USER	Add User Scenario	START	1624294939923
+REQUEST		Add User Request	1624294939962	1624294940510	OK	 
+REQUEST		get user Request	1624294943548	1624294943565	OK	 
+USER	Add User Scenario	END	1624294943572

@@ -1,0 +1,5 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1625981320590	RUN	3.6.0
+USER	Check Correlation and extract data	START	1625981322679
+REQUEST		Get all users	1625981322714	1625981323058	OK	 
+REQUEST		Get specific user	1625981323192	1625981323280	OK	 
+USER	Check Correlation and extract data	END	1625981323290

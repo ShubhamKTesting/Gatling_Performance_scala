@@ -1,0 +1,251 @@
+RUN	simulations.FixedDurationLoadSimulation	fixeddurationloadsimulation	1625993266612	g	3.6.0
+USER	Fixed Duration Load simulation	START	1625993275949
+USER	Fixed Duration Load simulation	START	1625993276445
+USER	Fixed Duration Load simulation	START	1625993276942
+USER	Fixed Duration Load simulation	START	1625993277442
+USER	Fixed Duration Load simulation	START	1625993277951
+REQUEST		get all users request	1625993275972	1625993278029	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get all users request	1625993276445	1625993278486	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993278944
+REQUEST		get all users request	1625993276943	1625993278976	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993279443
+REQUEST		get all users request	1625993277443	1625993279476	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993279945
+REQUEST		get all users request	1625993277952	1625993279976	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993280445
+USER	Fixed Duration Load simulation	START	1625993280945
+REQUEST		get all users request	1625993278945	1625993280977	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get all users request	1625993279444	1625993281492	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993281945
+REQUEST		get all users request	1625993279946	1625993281992	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993280055	1625993282101	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993282441
+REQUEST		get all users request	1625993280446	1625993282504	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993280491	1625993282521	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993282943
+REQUEST		get all users request	1625993280946	1625993282974	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993280991	1625993283020	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993283443
+REQUEST		get single user request	1625993281492	1625993283522	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993283943
+REQUEST		get all users request	1625993281946	1625993283990	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993281992	1625993284006	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get all users request	1625993282442	1625993284495	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993284946
+REQUEST		get all users request	1625993282944	1625993284993	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993282990	1625993285025	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993285445
+REQUEST		get all users request	1625993283444	1625993285491	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993283507	1625993285553	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993285940
+REQUEST		get all users request	1625993283944	1625993285986	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993284006	1625993286047	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993284119	1625993286173	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993286178
+USER	Fixed Duration Load simulation	START	1625993286440
+REQUEST		get single user request	1625993284511	1625993286550	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993284527	1625993286565	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993286566
+USER	Fixed Duration Load simulation	START	1625993286943
+REQUEST		get all users request	1625993284947	1625993286974	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993284978	1625993287005	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993285025	1625993287052	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993287053
+REQUEST		get all users request	1625993285445	1625993287471	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993285537	1625993287564	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993287565
+USER	Fixed Duration Load simulation	START	1625993287953
+REQUEST		get all users request	1625993285941	1625993287984	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993286002	1625993288047	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993286017	1625993288062	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993288063
+USER	Fixed Duration Load simulation	START	1625993288455
+REQUEST		get all users request	1625993286441	1625993288486	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993286503	1625993288533	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993288959
+REQUEST		get all users request	1625993286944	1625993288974	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993287006	1625993289037	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993287037	1625993289067	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993289069
+USER	Fixed Duration Load simulation	START	1625993289445
+REQUEST		get single user request	1625993287502	1625993289522	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993287564	1625993289584	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993289585
+USER	Fixed Duration Load simulation	START	1625993289945
+REQUEST		get all users request	1625993287953	1625993289976	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993288000	1625993290007	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993288062	1625993290086	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993290087
+REQUEST		get all users request	1625993288455	1625993290477	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993288564	1625993290572	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993290573
+USER	Fixed Duration Load simulation	START	1625993290949
+REQUEST		get all users request	1625993288960	1625993290981	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993288990	1625993290997	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993289022	1625993291045	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993291046
+USER	Fixed Duration Load simulation	START	1625993291440
+REQUEST		get all users request	1625993289446	1625993291471	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993289476	1625993291503	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993291952
+REQUEST		get all users request	1625993289946	1625993291983	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993289992	1625993292030	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993290054	1625993292076	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993292077
+USER	Fixed Duration Load simulation	START	1625993292451
+REQUEST		get single user request	1625993290493	1625993292528	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993290540	1625993292573	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993292574
+USER	Fixed Duration Load simulation	START	1625993292945
+REQUEST		get all users request	1625993290950	1625993292992	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993290981	1625993293023	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993291045	1625993293085	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993293085
+REQUEST		get all users request	1625993291441	1625993293489	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993291534	1625993293582	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993293583
+USER	Fixed Duration Load simulation	START	1625993293941
+REQUEST		get all users request	1625993291952	1625993294004	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993291983	1625993294020	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993292014	1625993294067	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993294068
+USER	Fixed Duration Load simulation	START	1625993294440
+REQUEST		get all users request	1625993292452	1625993294503	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993292482	1625993294534	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993294955
+REQUEST		get all users request	1625993292945	1625993295003	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993292992	1625993295048	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993293007	1625993295064	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993295064
+USER	Fixed Duration Load simulation	START	1625993295439
+REQUEST		get single user request	1625993293473	1625993295533	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993293520	1625993295564	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993295565
+USER	Fixed Duration Load simulation	START	1625993295954
+REQUEST		get all users request	1625993293942	1625993296001	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993293988	1625993296047	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993294036	1625993296078	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993296079
+REQUEST		get all users request	1625993294441	1625993296497	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993294535	1625993296574	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993296576
+USER	Fixed Duration Load simulation	START	1625993296950
+REQUEST		get all users request	1625993294955	1625993297011	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993295003	1625993297058	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993295033	1625993297089	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993297089
+USER	Fixed Duration Load simulation	START	1625993297451
+REQUEST		get all users request	1625993295440	1625993297483	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993295503	1625993297546	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993297953
+REQUEST		get all users request	1625993295954	1625993297983	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993296032	1625993298062	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993296016	1625993298062	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993298062
+USER	Fixed Duration Load simulation	START	1625993298444
+REQUEST		get single user request	1625993296512	1625993298554	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993296544	1625993298570	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993298571
+USER	Fixed Duration Load simulation	START	1625993298945
+REQUEST		get all users request	1625993296951	1625993298977	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993297011	1625993299039	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993297058	1625993299071	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993299072
+REQUEST		get all users request	1625993297452	1625993299492	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993297546	1625993299586	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993299586
+USER	Fixed Duration Load simulation	START	1625993299943
+REQUEST		get all users request	1625993297953	1625993299975	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993298015	1625993300038	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993298062	1625993300101	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993300102
+USER	Fixed Duration Load simulation	START	1625993300442
+REQUEST		get all users request	1625993298444	1625993300474	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993298507	1625993300551	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993300954
+REQUEST		get all users request	1625993298946	1625993301001	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993299024	1625993301080	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993299071	1625993301126	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993301127
+USER	Fixed Duration Load simulation	START	1625993301454
+REQUEST		get single user request	1625993299493	1625993301546	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993299555	1625993301608	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993301609
+USER	Fixed Duration Load simulation	START	1625993301950
+REQUEST		get all users request	1625993299944	1625993301981	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993299991	1625993302027	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993300069	1625993302121	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993302122
+REQUEST		get all users request	1625993300442	1625993302479	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993300566	1625993302635	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993302636
+USER	Fixed Duration Load simulation	START	1625993302948
+REQUEST		get all users request	1625993300955	1625993303009	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993300985	1625993303040	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993301048	1625993303102	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993303103
+USER	Fixed Duration Load simulation	START	1625993303446
+REQUEST		get all users request	1625993301454	1625993303493	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993301500	1625993303553	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	START	1625993303944
+REQUEST		get all users request	1625993301950	1625993303992	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993301981	1625993304039	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993302042	1625993304085	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993304086
+USER	Fixed Duration Load simulation	START	1625993304444
+REQUEST		get single user request	1625993302479	1625993304553	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993302557	1625993304615	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993304616
+USER	Fixed Duration Load simulation	START	1625993304940
+REQUEST		get all users request	1625993302949	1625993305003	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993303009	1625993305066	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993303087	1625993305130	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993305131
+REQUEST		get all users request	1625993303446	1625993305490	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993303554	1625993305614	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993305615
+REQUEST		get all users request	1625993303945	1625993305989	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993303991	1625993306035	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993304039	1625993306081	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993306082
+REQUEST		get all users request	1625993304444	1625993306487	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993304491	1625993306534	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get all users request	1625993304941	1625993306990	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993305019	1625993307053	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993305051	1625993307084	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993307085
+REQUEST		get single user request	1625993305505	1625993307566	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993305567	1625993307597	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993307598
+REQUEST		get single user request	1625993306004	1625993308049	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993306051	1625993308096	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993308097
+REQUEST		Add user request	1625993306566	1625993308598	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993308599
+REQUEST		get single user request	1625993307005	1625993309038	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993307068	1625993309115	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993309116
+REQUEST		get single user request	1625993307504	1625993309523	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		get single user request	1625993308001	1625993310019	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993308049	1625993310065	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993310066
+REQUEST		get single user request	1625993308504	1625993310520	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993308551	1625993310599	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993310599
+REQUEST		get single user request	1625993309005	1625993311022	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add user request	1625993309069	1625993311114	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993311115
+REQUEST		Add user request	1625993309568	1625993311585	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993311586
+REQUEST		Add user request	1625993310065	1625993312086	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993312087
+REQUEST		Add user request	1625993311052	1625993313085	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993313085
+REQUEST		Add user request	1625993311537	1625993313581	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993313582
+REQUEST		Add user request	1625993312024	1625993314067	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993314068
+REQUEST		Add user request	1625993312524	1625993314567	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993314567
+REQUEST		Add user request	1625993313037	1625993315082	KO	j.n.ConnectException: Connection refused: no further information
+USER	Fixed Duration Load simulation	END	1625993315083

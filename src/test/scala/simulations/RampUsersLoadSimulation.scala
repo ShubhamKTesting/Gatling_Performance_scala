@@ -1,0 +1,39 @@
+package simulations
+
+import io.gatling.core.scenario.Simulation
+import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+
+import scala.concurrent.duration._
+import scala.language.postfixOps
+
+class RampUsersLoadSimulation extends Simulation{
+
+  // Requests are capturing in fiddler proxy on port 8888
+  val httpConf = http.proxy(Proxy("localhost",8888))
+    .baseUrl("https://gorest.co.in/")
+    .header("Authorization","Bearer f77add17086c1c8cff1b0c95c54f090c4ce93781534a2792f87868e5c28f51e3")
+
+  //Circular, shuffle, random , queue
+  val csvFeeder = csv("./src/test/resources/data/getUser.csv").circular
+
+  def getUser() = {
+    repeat(1) {
+      feed(csvFeeder)
+        .exec(http("Get single user")
+          .get("public/v1/users/${userid}")
+          .check(jsonPath("$.data.name").is("${name}"))
+          .check(status.in(200, 304))) //304 #data is already in cache and pick from it
+    }
+  }
+
+  val scn = scenario("Ramp Users load Simulation").exec(getUser())
+
+  setUp(
+    scn.inject(
+      nothingFor(5), // Don't do anything for initial 5 sec
+      constantUsersPerSec(10) during(10 seconds), // Initially started with constant 10 users in next 10 sec
+      rampUsersPerSec(1) to (5) during(20 seconds) //and then generate any of 1 to 5 uses during 20 sec
+    ).protocols(httpConf))
+
+}

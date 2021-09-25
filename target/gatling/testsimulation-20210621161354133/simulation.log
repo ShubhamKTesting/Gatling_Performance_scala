@@ -1,0 +1,4 @@
+RUN	simulations.TestSimulation	testsimulation	1624292034133	TestDemo	3.6.0
+USER	get user	START	1624292037734
+REQUEST		get user request	1624292037801	1624292038585	OK	 
+USER	get user	END	1624292038668

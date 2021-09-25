@@ -1,0 +1,10 @@
+RUN	simulations.DataFeederCSV	datafeedercsv	1625986970232	SA	3.6.0
+USER	CSV FEEDER test	START	1625986972610
+REQUEST		Get single user	1625986972684	1625986973046	KO	status.find.in(200,304), but actually found 404
+REQUEST		Get single user	1625986975157	1625986975223	KO	status.find.in(200,304), but actually found 404
+REQUEST		Get single user	1625986977233	1625986977320	KO	status.find.in(200,304), but actually found 404
+REQUEST		Get single user	1625986979338	1625986979434	OK	 
+REQUEST		Get single user	1625986981457	1625986981541	OK	 
+REQUEST		Get single user	1625986983558	1625986983971	KO	status.find.in(200,304), but actually found 404
+REQUEST		Get single user	1625986985979	1625986986071	KO	status.find.in(200,304), but actually found 404
+USER	CSV FEEDER test	END	1625986988080

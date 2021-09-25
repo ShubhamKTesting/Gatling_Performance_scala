@@ -1,0 +1,4 @@
+RUN	simulations.UpdateUserSimulation	updateusersimulation	1624343870198	TEST	3.6.0
+USER	Update User Request	START	1624343880748
+REQUEST		Update specific user	1624343880837	1624343882031	OK	 
+USER	Update User Request	END	1624343882092
